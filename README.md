@@ -42,6 +42,5 @@ To run the project, you can use the Makefile and follow these commands:
 
 ### Workflows
 
-On running the above commands, it runs successfully:
-
+On running the above commands, it runs successfully.
 
