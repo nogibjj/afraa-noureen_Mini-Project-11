@@ -11,9 +11,9 @@ Dataset: [Iris Dataset](https://gist.github.com/netj/8836201)
 
 ### PROCESS
 
-The code performs ETL-Query operations:
-[E] Extract a dataset from a URL in CSV format.
-[T] Transform the data using Spark SQL by combining two datasets and preparing it for analysis.
+The code performs ETL-Query operations:  
+[E] Extract a dataset from a URL in CSV format.  
+[T] Transform the data using Spark SQL by combining two datasets and preparing it for analysis.  
 [L] Load the transformed data into the destination data store using Delta Lake.
    
 ***
