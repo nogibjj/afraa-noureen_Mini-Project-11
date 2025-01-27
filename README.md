@@ -1,5 +1,4 @@
-# IDS_706-Data_Engineering_Systems
-## Mini-Project 11: Data Pipeline with Databricks
+# Data Pipeline with Databricks
 
 ### PURPOSE
 
